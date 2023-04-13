@@ -1,2 +1,2 @@
-# Calculator-Applocation
+# Calculator-Application
 Simple Calculator using html, css and javascript
